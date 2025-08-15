@@ -35,7 +35,7 @@ const Hero = () => {
             className="md:w-70 w-35 jitter1  md:-mt-40 -mt-20 "
           />
           <img
-            src="/herocard2.webp"
+            src="/heroCard2.webp"
             alt="hero"
             className="md:w-70 w-40 jitter2 md:ml-[50rem] ml-[16rem] rotate-10 absolute"
           />
